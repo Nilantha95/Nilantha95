@@ -61,10 +61,11 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilanthasanjeewa&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanthasanjeewa&layout=compact&theme=tokyonight" height="150" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilantha95&show_icons=true&locale=en&layout=compact" alt="nilantha95" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilantha95&show_icons=true&locale=en" alt="nilantha95" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilantha95&" alt="nilantha95" /></p>
 
 ---
 
