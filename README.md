@@ -2,12 +2,6 @@
 <h3 align="center">A passionate software engineer from Sri Lanka</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=800&size=30&duration=2000&pause=5&color=65F718&center=true&width=600&lines=Full-Stack+Web+Developer;Cloud+and+DevOps+Explorer;Loves+Clean+Code+%26+Deployment;Debugging+With+My+Dog+🐶💻" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://i.giphy.com/media/l0NwGpoOVLTAyUJSo/giphy.gif" alt="GIF" width="800" />
 </p>
 
