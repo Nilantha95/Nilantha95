@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilantha Sanjeewa</h1>
 <h3 align="center">A passionate software engineer from Sri Lanka</h3>
 
-<br><br>
-
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-
-<br><br>
 
 ---
 
